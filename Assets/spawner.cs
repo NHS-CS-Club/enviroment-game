@@ -17,10 +17,6 @@ public class spawner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        for (int i = 0; i < totalSeeds; i++)
-        {
-            Instantiate()
-        }
         if (Input.GetMouseButtonUp(0))
         {
             if (treeCounter < treeLimit)
