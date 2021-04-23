@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\abmum\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\abmum\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_enviroment-game.-828722938.00" t="ExcludeRecursive" />
+    <e p="D:\Environmental Game\enviroment-game" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AnimationTester.cs" t="Include" />
+        <e p="CameraFollowPlayerScript.cs" t="Include" />
+        <e p="CharacterMovementScript.cs" t="Include" />
+        <e p="ColorTester.cs" t="Include" />
+        <e p="LowPolyNature" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Axe.cs" t="Include" />
+            <e p="Crate.cs" t="Include" />
+            <e p="DamageSource.cs" t="Include" />
+            <e p="Environment" t="Include">
+              <e p="MovingPlatform.cs" t="Include" />
+            </e>
+            <e p="FirstAid.cs" t="Include" />
+            <e p="Food.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="Gem.cs" t="Include" />
+            <e p="HealthBar.cs" t="Include" />
+            <e p="HUD.cs" t="Include" />
+            <e p="Inventory.cs" t="Include" />
+            <e p="InventoryItem.cs" t="Include" />
+            <e p="InventoryItemBase.cs" t="Include" />
+            <e p="InventorySlot.cs" t="Include" />
+            <e p="ItemClickHandler.cs" t="Include" />
+            <e p="ItemDragHandler.cs" t="Include" />
+            <e p="ItemDropHandler.cs" t="Include" />
+            <e p="Key.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="PlayerFollow.cs" t="Include" />
+            <e p="Sheep.cs" t="Include" />
+          </e>
+        </e>
+        <e p="SimpleLowPolyNature" t="Include">
+          <e p="Readme.txt" t="Include" />
+          <e p="Shaders" t="Include">
+            <e p="SimpleWater.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Spawner.cs" t="Include" />
+        <e p="Ultimate Animated Character Pack - Nov 2019" t="Include">
+          <e p="License.txt" t="Include" />
+        </e>
+      </e>
+      <e p="enviroment-game.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
